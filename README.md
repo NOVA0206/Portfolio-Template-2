@@ -68,20 +68,6 @@ http-server .
 
 ---
 
-# Deploying (quick)
-
-**GitHub Pages**
-
-1. Push this repo to GitHub.
-2. In the repository's **Settings → Pages**, select the branch (e.g., `main`) and root folder `/` (or `gh-pages` branch) then save.
-3. Your site will be served at `https://<your-username>.github.io/<repo-name>/Portfolio2.html` (or the repo root if you rename `Portfolio2.html` to `index.html`).
-
-**Other hosting**
-
-* You can deploy to any static hosting: Netlify, Vercel (static), Surge.sh, Firebase Hosting, etc. If you want the repo root to serve as the site entry, rename `Portfolio2.html` → `index.html`.
-
----
-
 # Customize
 
 A short checklist for quick customization:
@@ -102,18 +88,6 @@ A short checklist for quick customization:
 
 ---
 
-# Contributing
-
-This is a small template — contributions are welcome. Suggested improvements:
-
-* Convert to a proper multi-file project with separate assets folder (e.g., `assets/img`, `assets/css`, `assets/js`)
-* Add a build toolchain (optional) with minification, autoprefixer, and live-reload
-* Add a README screenshot embed (update this README with real preview images)
-
-If you'd like, open a PR or issue with suggested changes.
-
----
-
 # License & credits
 
 This repository is licensed under the **MIT License**.
@@ -122,10 +96,8 @@ This repository is licensed under the **MIT License**.
 
 # Contact
 
-If you want the README to include your real name, portfolio link, or email address, replace the placeholders below:
-
 * Author: `Jeevan Jadhav`
 * Email: `jeevanj020604@gmail.com`
 * GitHub: `https://github.com/NOVA0206` (repo owner) — view files and screenshots in the repository. 
 
-Happy Coding!!!!1
+Happy Coding!!!!
