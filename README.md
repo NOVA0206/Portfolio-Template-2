@@ -126,6 +126,6 @@ If you want the README to include your real name, portfolio link, or email addre
 
 * Author: `Jeevan Jadhav`
 * Email: `jeevanj020604@gmail.com`
-* GitHub: `https://github.com/NOVA0206` (repo owner) — view files and screenshots in the repository. ([GitHub][1])
-[1]: https://github.com/NOVA0206/Portfolio-Template-2 "GitHub - NOVA0206/Portfolio-Template-2"
-[2]: https://github.com/NOVA0206/Portfolio-Template-2/blob/main/Portfolio2.html "Portfolio-Template-2/Portfolio2.html at main · NOVA0206/Portfolio-Template-2 · GitHub"
+* GitHub: `https://github.com/NOVA0206` (repo owner) — view files and screenshots in the repository. 
+
+Happy Coding!!!!1
